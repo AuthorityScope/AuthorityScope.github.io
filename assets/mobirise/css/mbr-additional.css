@@ -2073,6 +2073,9 @@ body {
 .cid-qMS225n6GL .mbr-section-title {
   text-align: right;
 }
+.cid-qMS225n6GL .mbr-section-title B {
+  color: #ffffff;
+}
 .cid-qMNXL6WrS2 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2096,10 +2099,18 @@ body {
     width: 100% !important;
   }
 }
+.cid-qNKyCXmFIo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/1522382149120-2000x1328.jpg");
+}
+.cid-qNKyCXmFIo H2 {
+  color: #ffffff;
+}
 .cid-qMNXL7c4hs {
-  padding-top: 15px;
+  padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/mbr-1617x1080.jpg");
 }
 .cid-qMNXL7c4hs .card-img {
   background-color: #fff;
@@ -2281,13 +2292,18 @@ body {
   color: #ffffff;
 }
 .cid-qMS94pT0q3 {
-  padding-top: 90px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/1hand-2-940x625.jpg");
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/ctot-corporateoffice-704x359.jpg");
+}
+.cid-qMS94pT0q3 .media-container-row {
+  flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-qMS94pT0q3 .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -2302,11 +2318,15 @@ body {
 }
 .cid-qMS94pT0q3 .mbr-text,
 .cid-qMS94pT0q3 .mbr-section-btn {
-  text-align: left;
+  text-align: right;
+}
+.cid-qMS94pT0q3 H1 {
+  color: #ffffff;
+  text-align: right;
 }
 .cid-qMNXL952jn {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -2379,7 +2399,11 @@ body {
   text-align: left;
 }
 .cid-qMNXL952jn .copyright > p {
-  text-align: left;
+  text-align: center;
+  color: #ffffff;
+}
+.cid-qMNXL952jn I {
+  color: #000000;
 }
 .cid-qMRL8aHtvT .navbar {
   background: #000000;
