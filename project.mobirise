@@ -44,7 +44,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#515151",
             "hamburgerColor": "#f51613"
